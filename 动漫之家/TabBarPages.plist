@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ClassName</key>
+		<string>ComicPage</string>
+		<key>Title</key>
+		<string>漫画</string>
+		<key>Image</key>
+		<string>TabComic</string>
+		<key>SelectImage</key>
+		<string>TabComicSelected</string>
+	</dict>
+	<dict>
+		<key>ClassName</key>
+		<string>NewsPage</string>
+		<key>Title</key>
+		<string>新闻</string>
+		<key>Image</key>
+		<string>TabNews</string>
+		<key>SelectImage</key>
+		<string>TabNewsSelected</string>
+	</dict>
+	<dict>
+		<key>ClassName</key>
+		<string>LightNovelPage</string>
+		<key>Title</key>
+		<string>轻小说</string>
+		<key>Image</key>
+		<string>TabNovel</string>
+		<key>SelectImage</key>
+		<string>TabNovelSelected</string>
+	</dict>
+	<dict>
+		<key>ClassName</key>
+		<string>MyPage</string>
+		<key>Title</key>
+		<string>我的</string>
+		<key>Image</key>
+		<string>TabMy</string>
+		<key>SelectImage</key>
+		<string>TabMySelected</string>
+		<key>UnLoad</key>
+		<false/>
+	</dict>
+</array>
+</plist>
